@@ -1,2 +1,1 @@
-# math-booklet-answers-1
-👌 Typed math answers written in Latex
+# Math 1 Answers!
